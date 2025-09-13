@@ -25,7 +25,7 @@
 
 ### 🛠️ Tech Stack
 - **Languages:** C++, Python, Java, SQL, JavaScript  
-- **Tools & Frameworks:** CreoToolkit API, .NET, React, Expo, Firebase, Spring Boot  
+- **Tools & Frameworks:**  .NET, React, Expo, Firebase, Spring Boot  
 - **Concepts:** Multithreading, Algorithms, Data Structures, Microservices  
 - **Other Skills:** Agile (SAFe®), Git, Cloud (GCP)  
 
