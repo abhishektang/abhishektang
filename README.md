@@ -17,9 +17,9 @@
 ### 🔗 Featured Projects
 | Project | Tech Stack | Highlights |
 |---------|-----------|------------|
-| [Creo Automation Tools](https://github.com/abhishek-tanguturi/Creo-Automation-Tools) | C++, CreoToolkit API, .NET | Automated CAD drawing & simulation workflows, **40% faster design cycle**. |
-| [WildTales](https://github.com/abhishek-tanguturi/WildTales) | Expo, Firebase | Cross-platform educational app with **offline geofencing challenges**. |
-| [UQ Agent](https://github.com/abhishek-tanguturi/UQ-Agent) | React, Vite, LLM, Firebase | AI browser extension to navigate UQ systems with **natural language commands**. |
+| Creo Automation Tools | C++, CreoToolkit API, .NET | Automated CAD drawing & simulation workflows, **40% faster design cycle**. |
+| WildTales | Expo, Firebase | Cross-platform educational app with **offline geofencing challenges**. |
+| UQ Agent | React, Vite, LLM, Firebase | AI browser extension to navigate UQ systems with **natural language commands**. |
 
 ---
 
