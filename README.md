@@ -18,7 +18,7 @@
 | Project | Tech Stack | Highlights |
 |---------|-----------|------------|
 | [Cloud Computing MCP Server](https://github.com/abhishektang/cloud-computing-mcp-server) | TypeScript, Node.js, MCP | AI-powered course material management with intelligent search across lectures, tutorials, and past papers. |
-| [Data Mining MCP Server](https://github.com/abhishektang/data-mining-mcp-server) | TypeScript, Python, PyMuPDF | MCP server with fast PDF/DOCX extraction for organizing course materials with AI assistant integration. |
+| [Data Mining MCP Server](https://github.com/abhishektang/data-mining-mcp-server) | TypeScript, Node.js, PyMuPDF | MCP server with fast PDF/DOCX extraction for organizing course materials with AI assistant integration. |
 | Creo Automation Tools | C++, CreoToolkit API, .NET | Automated CAD drawing & simulation workflows, **40% faster design cycle**. |
 | WildTales | Expo, Firebase | Cross-platform educational app with **offline geofencing challenges**. |
 | UQ Agent | React, Vite, LLM, Firebase | AI browser extension to navigate UQ systems with **natural language commands**. |
