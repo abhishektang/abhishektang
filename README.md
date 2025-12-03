@@ -9,7 +9,7 @@
 </div>
 
 🎓 **Master of Information Technology** @ The University of Queensland  
-💻 **Ex-Associate Software Engineer** @ Capgemini (C++ Automation & Multithreading)  
+💻 **Ex-Associate Software Engineer** @ Capgemini (C++ Automation)  
 🚀 Passionate about **Cloud-Native Systems, Machine Learning, Low-Latency Computing & Full-Stack Development**
 
 ---
