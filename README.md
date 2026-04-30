@@ -20,7 +20,6 @@
 - ☁️ Architected **production-grade Kubernetes deployments** with self-healing, auto-scaling, and zero-downtime updates
 - 🌱 Currently expanding expertise in **cloud orchestration, system design, and distributed systems**
 - 📈 Interested in **trading systems, high-performance computing, and cloud-native architectures**
-- 🌏 Based in Brisbane, Australia
 
 ---
 
