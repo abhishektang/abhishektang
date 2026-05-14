@@ -240,7 +240,7 @@ exploring:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishektang)
 
 💡 **Open to:** Cloud Engineering, DevOps, Full-Stack Development, and System Design roles  
-🌏 **Location:** Brisbane, Australia  
+🌏 **Location:** Australia  
 📧 **Email:** t.abhishek345@gmail.com
 
 </div>
